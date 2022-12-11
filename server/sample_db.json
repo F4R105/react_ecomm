@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "6395dff10a1af047f02fa6f8",
+    "image": "images/cooker-king-AOVtEuU9UGc-unsplash.jpg",
+    "name": "Sufuria",
+    "price": 450000,
+    "__v": 0
+  },
+  {
+    "_id": "6395e0670a1af047f02fde4e",
+    "image": "images/cooker-king-en5Insb54ek-unsplash.jpg",
+    "name": "Cooker",
+    "price": 425000,
+    "__v": 0
+  },
+  {
+    "_id": "6395e09f0a1af047f02ff86f",
+    "image": "images/cooker-king-Lw-FD_k8Zv4-unsplash.jpg",
+    "name": "Cooker",
+    "price": 324000,
+    "__v": 0
+  },
+  {
+    "_id": "6395e0c40a1af047f03008ed",
+    "image": "images/cooker-king-v5g1qGqems8-unsplash.jpg",
+    "name": "Cooker",
+    "price": 252000,
+    "__v": 0
+  },
+  {
+    "_id": "6395e0ef0a1af047f0301a85",
+    "image": "images/cooker-king-vUI90WUm3XA-unsplash.jpg",
+    "name": "Cooker",
+    "price": 266000,
+    "__v": 0
+  },
+  {
+    "_id": "6395e1400a1af047f0303baf",
+    "image": "images/cooker-king-zEgp30gYpKk-unsplash.jpg",
+    "name": "King cooker",
+    "price": 300000,
+    "__v": 0
+  },
+  {
+    "_id": "6395e1610a1af047f030489a",
+    "image": "images/erik-mclean-8qYgemjI-UY-unsplash.jpg",
+    "name": "King cooker",
+    "price": 300000,
+    "__v": 0
+  },
+  {
+    "_id": "6395e1780a1af047f03051a9",
+    "image": "images/gaelle-marcel-CkInCM8e1ig-unsplash.jpg",
+    "name": "King cooker",
+    "price": 300000,
+    "__v": 0
+  },
+  {
+    "_id": "6395e18a0a1af047f0305899",
+    "image": "images/katherine-chase-VNBUJ6imfGs-unsplash.jpg",
+    "name": "King cooker",
+    "price": 300000,
+    "__v": 0
+  },
+  {
+    "_id": "6395e1b30a1af047f030681b",
+    "image": "images/monika-grabkowska-yCLBMN5N-jk-unsplash.jpg",
+    "name": "King cooker",
+    "price": 300000,
+    "__v": 0
+  }
+]
